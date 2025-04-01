@@ -1,0 +1,34 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="10" fill="#F8FAFC" />
+  
+  <!-- Первый человек -->
+  <circle cx="150" cy="150" r="70" fill="#4A6FA5" opacity="0.1" />
+  <circle cx="150" cy="130" r="40" fill="#4A6FA5" opacity="0.2" />
+  <rect x="110" y="180" width="80" height="100" rx="40" fill="#4A6FA5" opacity="0.2" />
+  
+  <!-- Второй человек (в центре) -->
+  <circle cx="300" cy="130" r="70" fill="#6A75B5" opacity="0.1" />
+  <circle cx="300" cy="110" r="40" fill="#6A75B5" opacity="0.2" />
+  <rect x="260" y="160" width="80" height="100" rx="40" fill="#6A75B5" opacity="0.2" />
+  
+  <!-- Третий человек -->
+  <circle cx="450" cy="150" r="70" fill="#4A6FA5" opacity="0.1" />
+  <circle cx="450" cy="130" r="40" fill="#4A6FA5" opacity="0.2" />
+  <rect x="410" y="180" width="80" height="100" rx="40" fill="#4A6FA5" opacity="0.2" />
+  
+  <!-- Ноутбук -->
+  <rect x="200" y="280" width="200" height="10" rx="2" fill="#1E293B" />
+  <rect x="220" y="230" width="160" height="100" rx="4" fill="#1E293B" />
+  <rect x="230" y="240" width="140" height="80" rx="2" fill="#4A6FA5" opacity="0.2" />
+  
+  <!-- Детали ноутбука -->
+  <rect x="250" y="250" width="100" height="6" rx="2" fill="#4A6FA5" />
+  <rect x="250" y="270" width="80" height="4" rx="1" fill="#6A75B5" />
+  <rect x="250" y="280" width="60" height="4" rx="1" fill="#6A75B5" />
+  <rect x="250" y="290" width="70" height="4" rx="1" fill="#6A75B5" />
+  <rect x="250" y="300" width="90" height="4" rx="1" fill="#6A75B5" />
+  
+  <!-- Линии взаимодействия -->
+  <path d="M160 190C160 190 220 240 260 240" stroke="#4A6FA5" stroke-width="2" stroke-dasharray="4 4" />
+  <path d="M440 190C440 190 380 240 340 240" stroke="#4A6FA5" stroke-width="2" stroke-dasharray="4 4" />
+</svg> 
